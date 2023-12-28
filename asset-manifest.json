@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dc14bde.css",
+    "main.js": "/static/js/main.d3dccb9c.js",
+    "static/js/787.b9b908ac.chunk.js": "/static/js/787.b9b908ac.chunk.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/car.png": "/static/media/car.35983803e68ee385b642.png",
+    "static/media/developer_male.png": "/static/media/developer_male.f2736614d133629d3f94.png",
+    "static/media/Rectangle.png": "/static/media/Rectangle.f7b7758231b605873f10.png",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/hero-img.png": "/static/media/hero-img.47847091a3b85835ce1c.png",
+    "static/media/car.svg": "/static/media/car.9b0e082e708cfac37e39176259b0b1ad.svg",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/hero-bg.png": "/static/media/hero-bg.822ba6596f0b6d5b4d4a.png",
+    "static/media/Towing-bro-01.svg": "/static/media/Towing-bro-01.7f97cf79de15ffa491736fffa047b9db.svg",
+    "static/media/24s.svg": "/static/media/24s.e53f3d47413e27775a0a2a035823da29.svg",
+    "static/media/enquiry.svg": "/static/media/enquiry.9c8771ec2882280419e1f507a50de246.svg",
+    "static/media/career.svg": "/static/media/career.83e98c975f389cfed1087a9599f21704.svg",
+    "index.html": "/index.html",
+    "main.2dc14bde.css.map": "/static/css/main.2dc14bde.css.map",
+    "main.d3dccb9c.js.map": "/static/js/main.d3dccb9c.js.map",
+    "787.b9b908ac.chunk.js.map": "/static/js/787.b9b908ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc14bde.css",
+    "static/js/main.d3dccb9c.js"
+  ]
+}
